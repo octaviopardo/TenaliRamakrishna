@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_0147" format="1">
+  <advance width="237"/>
+  <outline>
+	<contour>
+	  <point x="117" y="375" type="line"/>
+	  <point x="99" y="355"/>
+	  <point x="90" y="334"/>
+	  <point x="90" y="312" type="curve" smooth="yes"/>
+	  <point x="90" y="296"/>
+	  <point x="97" y="283"/>
+	  <point x="112" y="272" type="curve"/>
+	  <point x="78" y="238" type="line"/>
+	  <point x="58" y="254"/>
+	  <point x="48" y="273"/>
+	  <point x="48" y="295" type="curve" smooth="yes"/>
+	  <point x="48" y="330"/>
+	  <point x="71" y="358"/>
+	  <point x="117" y="377" type="curve"/>
+	</contour>
+	<contour>
+	  <point x="187" y="375" type="line"/>
+	  <point x="170" y="354"/>
+	  <point x="162" y="333"/>
+	  <point x="162" y="312" type="curve" smooth="yes"/>
+	  <point x="162" y="296"/>
+	  <point x="169" y="283"/>
+	  <point x="184" y="272" type="curve"/>
+	  <point x="150" y="238" type="line"/>
+	  <point x="130" y="253"/>
+	  <point x="120" y="272"/>
+	  <point x="120" y="295" type="curve" smooth="yes"/>
+	  <point x="120" y="330"/>
+	  <point x="142" y="358"/>
+	  <point x="187" y="377" type="curve"/>
+	</contour>
+  </outline>
+</glyph>
